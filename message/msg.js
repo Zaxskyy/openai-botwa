@@ -87,7 +87,7 @@ _bot dibatasi menjawab maximal ${MAX_TOKEN} kata_
 
 *Created By @irfann._x*`
       var buttonReply = [
-				{ urlButton: { displayText: `Owner 💌`, url : `https://instagram.com/irfann._x` } },
+				{ urlButton: { displayText: `Owner 💌`, url : `https://instagram.com/zaxskyy_` } },
 				{ urlButton: { displayText: `Source Code 🔗`, url: `https://github.com/rtwone/openai-botwa` } },
 				{ urlButton: { displayText: `Share This Bot ❤️`, url: `https://api.whatsapp.com/send?`+new URLSearchParams({ text: textShare }) } }
 			]
